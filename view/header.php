@@ -18,5 +18,3 @@
                 <a href="#"></a>
             </div>
         </section>
-    </body>
-</html>
